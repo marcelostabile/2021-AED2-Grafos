@@ -1,0 +1,10 @@
+UT4-TA3
+
+EJERCICIO 1
+
+¿Cuáles pueden ser las razones para la utilización de diferentes estructuras de API Colecciones para representar el grafo, el conjunto de vértices y las listas de adyacencias?
+
+R: se prioriza el tiempo de acceso a la información, procurando un tiempo O(1) constante en el mejor de los casos, pudiendo ser O(n) lineal en el caso de las listas.
+
+
+
